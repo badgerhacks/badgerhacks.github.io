@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/badgerhacks.github.io/static/css/main.9f4e5e2c.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.92b6d114.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.92b6d114.chunk.js.map",
-    "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.3452aacb.js",
-    "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.3452aacb.js.map",
-    "static/js/2.1963878e.chunk.js": "/badgerhacks.github.io/static/js/2.1963878e.chunk.js",
-    "static/js/2.1963878e.chunk.js.map": "/badgerhacks.github.io/static/js/2.1963878e.chunk.js.map",
-    "static/js/3.42fb219f.chunk.js": "/badgerhacks.github.io/static/js/3.42fb219f.chunk.js",
-    "static/js/3.42fb219f.chunk.js.map": "/badgerhacks.github.io/static/js/3.42fb219f.chunk.js.map",
+    "main.js": "/badgerhacks.github.io/static/js/main.ddcb82c2.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.ddcb82c2.chunk.js.map",
+    "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.6a60f6cf.js",
+    "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.6a60f6cf.js.map",
+    "static/js/2.59113023.chunk.js": "/badgerhacks.github.io/static/js/2.59113023.chunk.js",
+    "static/js/2.59113023.chunk.js.map": "/badgerhacks.github.io/static/js/2.59113023.chunk.js.map",
+    "static/js/3.54d45d03.chunk.js": "/badgerhacks.github.io/static/js/3.54d45d03.chunk.js",
+    "static/js/3.54d45d03.chunk.js.map": "/badgerhacks.github.io/static/js/3.54d45d03.chunk.js.map",
     "index.html": "/badgerhacks.github.io/index.html",
     "static/css/main.9f4e5e2c.chunk.css.map": "/badgerhacks.github.io/static/css/main.9f4e5e2c.chunk.css.map",
-    "static/js/2.1963878e.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.1963878e.chunk.js.LICENSE.txt",
+    "static/js/2.59113023.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.59113023.chunk.js.LICENSE.txt",
     "static/media/logo.bfdf673f.png": "/badgerhacks.github.io/static/media/logo.bfdf673f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3452aacb.js",
-    "static/js/2.1963878e.chunk.js",
+    "static/js/runtime-main.6a60f6cf.js",
+    "static/js/2.59113023.chunk.js",
     "static/css/main.9f4e5e2c.chunk.css",
-    "static/js/main.92b6d114.chunk.js"
+    "static/js/main.ddcb82c2.chunk.js"
   ]
 }
