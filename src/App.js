@@ -1,4 +1,5 @@
 import Particles from 'react-particles-js';
+import {isMobile} from 'react-device-detect';
 
 import logo from './logo.png';
 import './App.css';
@@ -22,7 +23,7 @@ function App() {
               }
             },
             number: {
-              value: 50
+              value: isMobile ? 15 : 50
             },
             size: {
               value: 3
