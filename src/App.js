@@ -6,6 +6,7 @@ import './App.css';
 function App() {
   return (
     <div>
+
       <Particles
         style={{ position: "absolute" }}
         height="100%"
@@ -27,14 +28,16 @@ function App() {
               value: 3
             }
           }
-        }}
-      />
+        }}>
+      </Particles>
+
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <code style={{color:"black"}}>BadgerHacks</code>
         </header>
       </div>
+
     </div>
   );
 }
