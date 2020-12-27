@@ -102,7 +102,8 @@ class App extends Component {
                 </Button>
               </ButtonGroup>
               <ButtonGroup aria-label="Third group">
-                <Button className="top-btn-r" href="https://google.com">
+                <Button className="top-btn-r"
+                href="https://badgerhacks.devpost.com/">
                   Devpost
                 </Button>
               </ButtonGroup>
@@ -141,10 +142,13 @@ class App extends Component {
         </Container>
 
         {/* Footer */}
-        <Navbar bg="light" variant="light">
+        <Navbar bg="light" variant="light" expand="lg">
           <Container>
             <Nav className="mr-auto">
               Copyright © BadgerHacks 2020
+            </Nav>
+            <Nav className="ml-auto">
+              <a href="https://github.com/badgerhacks/badgerhacks.github.io">Source Code</a>
             </Nav>
           </Container>
         </Navbar>
