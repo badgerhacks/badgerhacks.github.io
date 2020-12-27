@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/badgerhacks.github.io/static/css/main.9f4e5e2c.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.5c8574cf.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.5c8574cf.chunk.js.map",
-    "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.78bc3842.js",
-    "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.78bc3842.js.map",
+    "main.css": "/badgerhacks.github.io/static/css/main.dff982d9.chunk.css",
+    "main.js": "/badgerhacks.github.io/static/js/main.7037a1a9.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.7037a1a9.chunk.js.map",
+    "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.5d8ccf70.js",
+    "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.5d8ccf70.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.4bbed447.chunk.js": "/badgerhacks.github.io/static/js/2.4bbed447.chunk.js",
-    "static/js/2.4bbed447.chunk.js.map": "/badgerhacks.github.io/static/js/2.4bbed447.chunk.js.map",
-    "static/js/3.43a47387.chunk.js": "/badgerhacks.github.io/static/js/3.43a47387.chunk.js",
-    "static/js/3.43a47387.chunk.js.map": "/badgerhacks.github.io/static/js/3.43a47387.chunk.js.map",
+    "static/js/2.470c7643.chunk.js": "/badgerhacks.github.io/static/js/2.470c7643.chunk.js",
+    "static/js/2.470c7643.chunk.js.map": "/badgerhacks.github.io/static/js/2.470c7643.chunk.js.map",
+    "static/js/3.c1db708e.chunk.js": "/badgerhacks.github.io/static/js/3.c1db708e.chunk.js",
+    "static/js/3.c1db708e.chunk.js.map": "/badgerhacks.github.io/static/js/3.c1db708e.chunk.js.map",
     "index.html": "/badgerhacks.github.io/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.9f4e5e2c.chunk.css.map": "/badgerhacks.github.io/static/css/main.9f4e5e2c.chunk.css.map",
-    "static/js/2.4bbed447.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.4bbed447.chunk.js.LICENSE.txt",
+    "static/css/main.dff982d9.chunk.css.map": "/badgerhacks.github.io/static/css/main.dff982d9.chunk.css.map",
+    "static/js/2.470c7643.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.470c7643.chunk.js.LICENSE.txt",
     "static/media/logo.bfdf673f.png": "/badgerhacks.github.io/static/media/logo.bfdf673f.png",
     "static/media/small-logo.35b19e33.png": "/badgerhacks.github.io/static/media/small-logo.35b19e33.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.78bc3842.js",
+    "static/js/runtime-main.5d8ccf70.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.4bbed447.chunk.js",
-    "static/css/main.9f4e5e2c.chunk.css",
-    "static/js/main.5c8574cf.chunk.js"
+    "static/js/2.470c7643.chunk.js",
+    "static/css/main.dff982d9.chunk.css",
+    "static/js/main.7037a1a9.chunk.js"
   ]
 }
