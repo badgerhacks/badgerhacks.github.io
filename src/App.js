@@ -97,7 +97,8 @@ class App extends Component {
             <code style={{color:"black", fontSize:"3rem"}}>BadgerHacks</code>
             <ButtonToolbar aria-label="Toolbar with button groups">
               <ButtonGroup className="mr-1" aria-label="First group">
-                <Button className="top-btn-l" href="https://google.com">
+                <Button className="top-btn-l"
+                href="https://discord.com/invite/AGyyPVtpVX">
                   Discord
                 </Button>
               </ButtonGroup>
