@@ -21,3 +21,63 @@
 .App-link {
   color: #61dafb;
 }
+
+.nav-link {
+  cursor: pointer;
+}
+
+.brand-text {
+  text-decoration: none !important;
+  color: black;
+  cursor: pointer;
+}
+
+.brand-text:hover {
+  text-decoration: none !important;
+  color: black;
+}
+
+.top-btn-l {
+  border-radius: 0 !important;
+  background-color: black;
+  border: 2px solid black;
+}
+
+.top-btn-l:hover  {
+  background-color: black;
+  border: 2px solid black;
+}
+
+.top-btn-l:active  {
+  background-color: black;
+  border: 2px solid black;
+}
+
+.top-btn-l:focus  {
+  outline: none;
+  box-shadow: none;
+}
+
+.top-btn-r {
+  border-radius: 0 !important;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.top-btn-r:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.top-btn-r:active {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.top-btn-r:focus {
+  outline: none;
+  box-shadow: none;
+}
