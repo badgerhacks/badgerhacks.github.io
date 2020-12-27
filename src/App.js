@@ -29,7 +29,7 @@ function App() {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
               <Nav.Link href="#about">About</Nav.Link>
-              <Nav.Link href="#about">Schedule</Nav.Link>
+              <Nav.Link href="#schedule">Schedule</Nav.Link>
               <Nav.Link href="#prizes">Prizes</Nav.Link>
               <Nav.Link href="#sponsors">Sponsors</Nav.Link>
             </Nav>
