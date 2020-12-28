@@ -54,7 +54,12 @@ class App extends Component {
 
                 <Link className="nav-link" to="faq" activeClass="active"
                 spy={true} smooth={true}>
-                    FAQ / Rules
+                    FAQ
+                </Link>
+
+                <Link className="nav-link" to="rules" activeClass="active"
+                spy={true} smooth={true}>
+                    Rules
                 </Link>
 
                 <Link className="nav-link" to="sponsors" activeClass="active"
@@ -170,7 +175,7 @@ class App extends Component {
 
         {/* FAQ Section */}
         <Container id="faq">
-          <h1>FAQ / Rules</h1>
+          <h1>FAQ</h1>
           <Accordion>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="about">
@@ -275,6 +280,12 @@ class App extends Component {
               href="mailto:badgerhacks@gmail.com"> badgerhacks@gmail.com
           </a>
           </p>
+        </Container>
+
+        {/* Sponsors Section */}
+        <Container id="rules">
+          <h1>Rules</h1>
+          <p>TBA</p>
         </Container>
 
         {/* Sponsors Section */}
