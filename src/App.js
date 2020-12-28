@@ -207,7 +207,7 @@ class App extends Component {
                   Absolutely. Everyone is welcome to participate in this
                   Hackathon and we will be posting useful resources under
                   the "resources" channel of our Discord server. These
-                  resources will be handpicked from our team who have
+                  resources will be handpicked from our team who has 
                   developed many full stack web and phone applications. We
                   will divide these resources by beginner, intermediate,
                   and advanced.
