@@ -54,7 +54,7 @@ class App extends Component {
 
                 <Link className="nav-link" to="faq" activeClass="active"
                 spy={true} smooth={true}>
-                    FAQ
+                    FAQ / Rules
                 </Link>
 
                 <Link className="nav-link" to="sponsors" activeClass="active"
@@ -170,7 +170,7 @@ class App extends Component {
 
         {/* FAQ Section */}
         <Container id="faq">
-          <h1>FAQ</h1>
+          <h1>FAQ / Rules</h1>
           <Accordion>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="about">
@@ -207,7 +207,7 @@ class App extends Component {
                   Absolutely. Everyone is welcome to participate in this
                   Hackathon and we will be posting useful resources under
                   the "resources" channel of our Discord server. These
-                  resources will be handpicked from our team who has 
+                  resources will be handpicked from our team who has
                   developed many full stack web and phone applications. We
                   will divide these resources by beginner, intermediate,
                   and advanced.
