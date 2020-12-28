@@ -263,7 +263,7 @@ class App extends Component {
             </Card>
           </Accordion>
           <h4 className="other-questions">Other Questions?</h4>
-          <p>Please email / contact us at
+          <p>Please email / contact us at &nbsp
             <a href="mailto:badgerhacks@gmail.com">
               badgerhacks@gmail.com
             </a>
