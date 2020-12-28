@@ -172,7 +172,7 @@ class App extends Component {
                 <Card.Body>
                   Participants can make anything they want. Prizes will be
                   given to the most creative and unique projects. The only
-                  restriction is that projects must be made within the
+                  restriction is that projects must be created during the
                   Hackathon week (between January 18th to January 22nd).
                 </Card.Body>
               </Accordion.Collapse>
@@ -263,8 +263,10 @@ class App extends Component {
             </Card>
           </Accordion>
           <h4 className="other-questions">Other Questions?</h4>
-          <p>Please email / contact us at <a href="mailto:badgerhacks@gmail.com">
-            badgerhacks@gmail.com</a>
+          <p>Please email / contact us at
+            <a href="mailto:badgerhacks@gmail.com">
+              badgerhacks@gmail.com
+            </a>
           </p>
         </Container>
 
