@@ -122,13 +122,15 @@ class App extends Component {
         {/* Schedule Section */}
         <Container id="schedule">
           <h1>Schedule</h1>
+          <p>Please join our Discord server for all announcements and
+          updates! (<a href="https://discord.com/invite/AGyyPVtpVX">
+          https://discord.com/invite/AGyyPVtpVX</a>)</p>
           <Table striped bordered hover>
             <thead>
               <tr>
                 <th>Date</th>
                 <th>Time</th>
                 <th>Event</th>
-                <th>Location</th>
               </tr>
             </thead>
             <tbody>
@@ -136,19 +138,16 @@ class App extends Component {
                 <td>Jan. 18 (Monday)</td>
                 <td>6:00 a.m. (CT)</td>
                 <td>Hacking Starts!</td>
-                <td>Discord Announcements Channel</td>
               </tr>
               <tr>
                 <td>Jan. 22 (Friday)</td>
                 <td>11:59 p.m. (CT)</td>
                 <td>Devpost Closes and Judging Commences</td>
-                <td>Discord Announcements Channel</td>
               </tr>
               <tr>
                 <td>Jan. 24 (Sunday)</td>
                 <td>3:00 p.m. (CT)</td>
                 <td>Award Ceremony</td>
-                <td>Discord Announcements Channel</td>
               </tr>
             </tbody>
           </Table>
@@ -263,10 +262,9 @@ class App extends Component {
             </Card>
           </Accordion>
           <h4 className="other-questions">Other Questions?</h4>
-          <p>Please email / contact us at
-            <a style={{marginLeft:"10px"}} href="mailto:badgerhacks@gmail.com">
-              badgerhacks@gmail.com
-            </a>
+          <p>Please email / contact us at <a
+              href="mailto:badgerhacks@gmail.com"> badgerhacks@gmail.com
+          </a>
           </p>
         </Container>
 
