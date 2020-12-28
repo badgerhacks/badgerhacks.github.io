@@ -81,3 +81,11 @@
   outline: none;
   box-shadow: none;
 }
+
+.card-header {
+  cursor: pointer;
+}
+
+.other-questions {
+  margin-top: 1rem;
+}

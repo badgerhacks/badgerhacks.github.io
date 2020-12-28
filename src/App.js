@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Particles from 'react-particles-js';
-import { Button, ButtonGroup, ButtonToolbar, Container, Nav, Navbar } from 'react-bootstrap';
+import { Accordion, Button, ButtonGroup, ButtonToolbar, Card,
+  Container, Nav, Navbar, Table } from 'react-bootstrap';
 import { Link } from 'react-scroll';
 import {isMobile} from 'react-device-detect';
 
@@ -121,7 +122,36 @@ class App extends Component {
         {/* Schedule Section */}
         <Container id="schedule">
           <h1>Schedule</h1>
-          <p>TBA</p>
+          <Table striped bordered hover>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Location</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Jan. 18 (Monday)</td>
+                <td>6:00 a.m. (CT)</td>
+                <td>Hacking Starts!</td>
+                <td>Discord Announcements Channel</td>
+              </tr>
+              <tr>
+                <td>Jan. 22 (Friday)</td>
+                <td>11:59 p.m. (CT)</td>
+                <td>Devpost Closes and Judging Commences</td>
+                <td>Discord Announcements Channel</td>
+              </tr>
+              <tr>
+                <td>Jan. 24 (Sunday)</td>
+                <td>3:00 p.m. (CT)</td>
+                <td>Award Ceremony</td>
+                <td>Discord Announcements Channel</td>
+              </tr>
+            </tbody>
+          </Table>
         </Container>
 
         {/* Prizes Section */}
@@ -133,7 +163,109 @@ class App extends Component {
         {/* FAQ Section */}
         <Container id="faq">
           <h1>FAQ</h1>
-          <p>TBA</p>
+          <Accordion>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="about">
+                What can I make?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="about">
+                <Card.Body>
+                  Participants can make anything they want. Prizes will be
+                  given to the most creative and unique projects. The only
+                  restriction is that projects must be made within the
+                  Hackathon week (between January 18th to January 22nd).
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="teamwork">
+                Is teamwork allowed?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="teamwork">
+                <Card.Body>
+                  Yes! We highly encourage teamwork. Participants
+                  may work alone or in teams of up to 4 people. The
+                  "group-search" channel on our Discord server can help you
+                  find teammates.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="donotknow">
+                Is it fine if I do not know how to code?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="donotknow">
+                <Card.Body>
+                  Absolutely. Everyone is welcome to participate in this
+                  Hackathon and we will be posting useful resources under
+                  the "resources" channel of our Discord server. These
+                  resources will be handpicked from our team who have
+                  developed many full stack web and phone applications. We
+                  will divide these resources by beginner, intermediate,
+                  and advanced.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="assistance">
+                Will beginner programmers receive assistance?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="assistance">
+                <Card.Body>
+                  Indeed! Please post all debugging questions under the
+                  "debugging" channel of our Discord server. We will try our
+                  best to answer as many questions as possible.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="externalresources">
+                Can code from external resources be used?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="externalresources">
+                <Card.Body>
+                  If credit is given through code comments and the code is not
+                  under copyright restrictions, using code from external
+                  resources is fine.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="submission">
+                How do I submit my project?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="submission">
+                <Card.Body>
+                  Submit projects by uploading them to our Devpost
+                  (<a href="https://badgerhacks.devpost.com/">
+                  https://badgerhacks.devpost.com/</a>). Source code and a
+                  video under 5 minutes are required in order for a project
+                  to be valid. The submission deadline is included in the
+                  schedule above
+                  (<a href="https://badgerhacks.github.io/#schedule">
+                  https://badgerhacks.github.io/#schedule</a>).
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="sourcecode">
+                How do I submit my source code?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="sourcecode">
+                <Card.Body>
+                  Source code for the project should be linked in the Devpost
+                  submission. Pushing source code to GitHub is preferred, but
+                  participants may upload their code as a zip file to other
+                  places like Google Drive or Dropbox if that is easier for
+                  them.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+          </Accordion>
+          <h4 className="other-questions">Other Questions?</h4>
+          <p>Please email / contact us at <a href="mailto:badgerhacks@gmail.com">
+            badgerhacks@gmail.com</a>
+          </p>
         </Container>
 
         {/* Sponsors Section */}
@@ -149,7 +281,9 @@ class App extends Component {
               Copyright © BadgerHacks 2020
             </Nav>
             <Nav className="ml-auto">
-              <a href="https://github.com/badgerhacks/badgerhacks.github.io">Source Code</a>
+              <a href="https://github.com/badgerhacks/badgerhacks.github.io">
+                Source Code
+              </a>
             </Nav>
           </Container>
         </Navbar>
