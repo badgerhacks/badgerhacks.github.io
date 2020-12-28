@@ -95,7 +95,16 @@ class App extends Component {
         <div className="App" id="home">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
-            <code style={{color:"black", fontSize:"3rem"}}>BadgerHacks</code>
+            { isMobile ?
+              (<code style={{color:"black", fontSize:"2rem"}}>
+                BadgerHacks
+                </code>
+              ) :
+              (<code style={{color:"black", fontSize:"3rem"}}>
+                BadgerHacks
+                </code>
+              )
+            }
             <ButtonToolbar aria-label="Toolbar with button groups">
               <ButtonGroup className="mr-1" aria-label="First group">
                 <Button className="top-btn-l"
