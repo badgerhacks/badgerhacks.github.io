@@ -304,16 +304,25 @@ class App extends Component {
           <h1>Rules</h1>
           <ul>
             <li>
-            <p>Participants can make anything they want. Prizes will be given to the most creative and unique projects. The only restriction is that projects must be created during the Hackathon (between January 21th to January 23rd).</p>
+            <p>Participants can make anything they want.
+            Prizes will be given to the most creative and unique projects.
+            The only restriction is that projects must be created during the
+            Hackathon (between January 21th to January 23rd).</p>
             </li>
             <li>
-            <p>Participants may work alone or in teams of up to 4 people. The "group-search" channel on our Discord server can help you find teammates.</p>
+            <p>Participants may work alone or in teams of up to 4 people.
+            The "group-search" channel on our Discord server can help you find
+            teammates.</p>
             </li>
             <li>
-            <p>If credit is given through code comments and the code is not under copyright restrictions, using code from external resources is fine.</p>
+            <p>If credit is given through code comments and the code is not
+            under copyright restrictions, using code from external resources
+            is fine.</p>
             </li>
             <li>
-            <p>This hackathon is open to everyone ages 18 and older, regardless of whether you are in College, and regardless of what College you attend</p>
+            <p>This hackathon is open to everyone ages 18 and older,
+            regardless of whether you are in College, and regardless of
+            what College you attend.</p>
             </li>
           </ul>
         </Container>
