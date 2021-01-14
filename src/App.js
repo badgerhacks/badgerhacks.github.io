@@ -1,8 +1,10 @@
 import React, { Component } from "react";
+
 import Particles from 'react-particles-js';
 import { Accordion, Button, ButtonGroup, ButtonToolbar, Card,
   Container, Nav, Navbar, Table } from 'react-bootstrap';
 import { Link } from 'react-scroll';
+
 import {isMobile} from 'react-device-detect';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -47,11 +49,6 @@ class App extends Component {
                     Schedule
                 </Link>
 
-                <Link className="nav-link" to="prizes" activeClass="active"
-                spy={true} smooth={true}>
-                    Prizes
-                </Link>
-
                 <Link className="nav-link" to="faq" activeClass="active"
                 spy={true} smooth={true}>
                     FAQ
@@ -60,6 +57,11 @@ class App extends Component {
                 <Link className="nav-link" to="rules" activeClass="active"
                 spy={true} smooth={true}>
                     Rules
+                </Link>
+
+                <Link className="nav-link" to="prizes" activeClass="active"
+                spy={true} smooth={true}>
+                    Prizes
                 </Link>
 
                 <Link className="nav-link" to="sponsors" activeClass="active"
@@ -130,7 +132,12 @@ class App extends Component {
         {/* About Section */}
         <Container id="about">
           <h1>About</h1>
-          <p>TBA</p>
+          <p>Badger Hacks is a week long hackathon that takes place from
+          January 21th to January 23nd. It is run entirely by students at
+          the University of Wisconsin - Madison, and it is completely virtual.
+          This means that regardless of where you are, as long as you have a
+          submission that abides by our rules, you will be eligible for a
+          prize.</p>
         </Container>
 
         {/* Schedule Section */}
@@ -142,35 +149,29 @@ class App extends Component {
           <Table striped bordered hover>
             <thead>
               <tr>
-                <th>Date</th>
-                <th>Time</th>
-                <th>Event</th>
+                <th>Period</th>
+                <th>Begins</th>
+                <th>Ends</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>Jan. 18 (Monday)</td>
-                <td>6:00 a.m. (CT)</td>
-                <td>Hacking Starts!</td>
+                <td>Submissions</td>
+                <td>January 21 at 6:00am CST</td>
+                <td>January 23 at 12:00am CST</td>
               </tr>
               <tr>
-                <td>Jan. 22 (Friday)</td>
-                <td>11:59 p.m. (CT)</td>
-                <td>Devpost Closes and Judging Commences</td>
+                <td>Judging</td>
+                <td>January 24 at 12:15am CST</td>
+                <td>January 25 at 12:00am CST</td>
               </tr>
               <tr>
-                <td>Jan. 24 (Sunday)</td>
-                <td>3:00 p.m. (CT)</td>
-                <td>Award Ceremony</td>
+                <td>Winners Announced</td>
+                <td></td>
+                <td>January 25 at 9:00am CST</td>
               </tr>
             </tbody>
           </Table>
-        </Container>
-
-        {/* Prizes Section */}
-        <Container id="prizes">
-          <h1>Prizes</h1>
-          <p>TBA</p>
         </Container>
 
         {/* FAQ Section */}
@@ -178,15 +179,31 @@ class App extends Component {
           <h1>FAQ</h1>
           <Accordion>
             <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="signupquestion">
+                How do I sign up?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="signupquestion">
+                <Card.Body>
+                  Sign up by joining our Discord
+                  (<a href="https://discord.com/invite/AGyyPVtpVX">
+                  https://discord.com/invite/AGyyPVtpVX</a>) and
+                  registering on our Devpost
+                  (<a href="https://badgerhacks.devpost.com/">
+                  https://badgerhacks.devpost.com/</a>).
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
               <Accordion.Toggle as={Card.Header} eventKey="about">
                 What can I make?
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="about">
                 <Card.Body>
                   Participants can make anything they want. Prizes will be
-                  given to the most creative and unique projects. The only
-                  restriction is that projects must be created during the
-                  Hackathon week (between January 18th to January 22nd).
+                  given to the most creative and unique projects.
+                  The only restriction is that projects must be created
+                  during the Hackathon time period
+                  (refer to the above schedule).
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
@@ -285,6 +302,25 @@ class App extends Component {
         {/* Sponsors Section */}
         <Container id="rules">
           <h1>Rules</h1>
+          <ul>
+            <li>
+            <p>Participants can make anything they want. Prizes will be given to the most creative and unique projects. The only restriction is that projects must be created during the Hackathon (between January 21th to January 23rd).</p>
+            </li>
+            <li>
+            <p>Participants may work alone or in teams of up to 4 people. The "group-search" channel on our Discord server can help you find teammates.</p>
+            </li>
+            <li>
+            <p>If credit is given through code comments and the code is not under copyright restrictions, using code from external resources is fine.</p>
+            </li>
+            <li>
+            <p>This hackathon is open to everyone ages 18 and older, regardless of whether you are in College, and regardless of what College you attend</p>
+            </li>
+          </ul>
+        </Container>
+
+        {/* Prizes Section */}
+        <Container id="prizes">
+          <h1>Prizes</h1>
           <p>TBA</p>
         </Container>
 
