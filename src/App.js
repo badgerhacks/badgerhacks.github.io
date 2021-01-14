@@ -158,7 +158,7 @@ class App extends Component {
               <tr>
                 <td>Submissions</td>
                 <td>January 21 at 6:00am CST</td>
-                <td>January 23 at 12:00am CST</td>
+                <td>January 23 at 11:45pm CST</td>
               </tr>
               <tr>
                 <td>Judging</td>
