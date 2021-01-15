@@ -132,7 +132,7 @@ class App extends Component {
         {/* About Section */}
         <Container id="about">
           <h1>About</h1>
-          <p>Badger Hacks is a week long hackathon that takes place from
+          <p>Badger Hacks is a hackathon that takes place from
           January 21st to January 23nd (2021). It is run entirely by students at
           the University of Wisconsin - Madison, and it is completely virtual.
           This means that regardless of where you are, as long as you have a
