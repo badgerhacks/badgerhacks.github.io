@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import Particles from 'react-particles-js';
 import { Accordion, Button, ButtonGroup, ButtonToolbar, Card,
-  Col, Container, Nav, Navbar, Row, Table } from 'react-bootstrap';
+  Col, Container, Image, Nav, Navbar, Row, Table } from 'react-bootstrap';
 import { Link } from 'react-scroll';
 
 import {isMobile} from 'react-device-detect';
@@ -15,6 +15,8 @@ import small_logo from './logos/small-logo.png';
 import first_icon from './icons/icons8-1st-place-medal-96.png';
 import second_icon from './icons/icons8-2nd-place-medal-96.png';
 import third_icon from './icons/icons8-3rd-place-medal-96.png';
+
+import aberdean_logo from './logos/aberdean_logo_RGB.jpg';
 
 import './App.css';
 
@@ -387,7 +389,15 @@ class App extends Component {
         {/* Sponsors Section */}
         <Container id="sponsors">
           <h1>Sponsors</h1>
-          <p>TBA</p>
+          <Container>
+            <Row>
+              <Col>
+                <a href="https://www.aberdean.com/">
+                  <Image src={aberdean_logo} alt="aberdean" fluid/>
+                </a>
+              </Col>
+            </Row>
+          </Container>
         </Container>
 
         {/* Footer */}
