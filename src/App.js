@@ -269,9 +269,9 @@ class App extends Component {
                   Submit projects by uploading them to our Devpost
                   (<a href="https://badgerhacks.devpost.com/">
                   https://badgerhacks.devpost.com/</a>). Source code and a
-                  video under 5 minutes are required in order for a project
-                  to be valid. The submission deadline is included in the
-                  schedule above
+                  YouTube video under 5 minutes are required in order for
+                  a project to be valid. The submission deadline is
+                  included in the schedule above.
                   (<a href="https://badgerhacks.github.io/#schedule">
                   https://badgerhacks.github.io/#schedule</a>).
                 </Card.Body>
