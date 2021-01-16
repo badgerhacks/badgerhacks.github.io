@@ -330,7 +330,12 @@ class App extends Component {
         {/* Prizes Section */}
         <Container id="prizes">
           <h1>Prizes</h1>
-          <p>TBA</p>
+          <h3>First Place</h3>
+          <p>$200 to be split among participants. Awarded to participants that worked on the best project according to our judging criteria.</p>
+          <h3>Second Place</h3>
+          <p>$100 to be split among participants. Awarded to participants that worked on the second best project according to our judging criteria.</p>
+          <h3>Third Place</h3>
+          <p>$50 to be split among participants. Awarded to participants that worked on the third best project according to our judging criteria.</p>
         </Container>
 
         {/* Sponsors Section */}
