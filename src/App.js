@@ -271,7 +271,7 @@ class App extends Component {
                   https://badgerhacks.devpost.com/</a>). Source code and a
                   YouTube video under 5 minutes are required in order for
                   a project to be valid. The submission deadline is
-                  included in the schedule above.
+                  included in the schedule above
                   (<a href="https://badgerhacks.github.io/#schedule">
                   https://badgerhacks.github.io/#schedule</a>).
                 </Card.Body>
