@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import Particles from 'react-particles-js';
 import { Accordion, Button, ButtonGroup, ButtonToolbar, Card,
-  Container, Nav, Navbar, Table } from 'react-bootstrap';
+  Col, Container, Nav, Navbar, Row, Table } from 'react-bootstrap';
 import { Link } from 'react-scroll';
 
 import {isMobile} from 'react-device-detect';
@@ -330,12 +330,33 @@ class App extends Component {
         {/* Prizes Section */}
         <Container id="prizes">
           <h1>Prizes</h1>
-          <h3>First Place</h3>
-          <p>$200 to be split among participants. Awarded to participants that worked on the best project according to our judging criteria.</p>
-          <h3>Second Place</h3>
-          <p>$100 to be split among participants. Awarded to participants that worked on the second best project according to our judging criteria.</p>
-          <h3>Third Place</h3>
-          <p>$50 to be split among participants. Awarded to participants that worked on the third best project according to our judging criteria.</p>
+          <Container>
+            <Row>
+              <Col>
+                <h3>First Place</h3>
+                <p>$200 to be split among participants. Awarded to
+                participants that worked on the best project according
+                to our judging criteria.</p>
+              </Col>
+              <Col>
+                <h3>Second Place</h3>
+                <p>$100 to be split among participants. Awarded to
+                participants that worked on the second best project
+                according to our judging criteria.</p>
+              </Col>
+            </Row>
+            <Row>
+              <Col>
+                <h3>Third Place</h3>
+                <p>$50 to be split among participants. Awarded to
+                participants that worked on the third best project
+                according to our judging criteria.</p>
+              </Col>
+              <Col>
+                
+              </Col>
+            </Row>
+          </Container>
         </Container>
 
         {/* Sponsors Section */}
