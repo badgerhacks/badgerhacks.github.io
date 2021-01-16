@@ -9,8 +9,12 @@ import {isMobile} from 'react-device-detect';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import logo from './logo.png';
-import small_logo from './small-logo.png';
+import logo from './logos/logo.png';
+import small_logo from './logos/small-logo.png';
+
+import first_icon from './icons/icons8-1st-place-medal-96.png';
+import second_icon from './icons/icons8-2nd-place-medal-96.png';
+import third_icon from './icons/icons8-3rd-place-medal-96.png';
 
 import './App.css';
 
@@ -333,13 +337,28 @@ class App extends Component {
           <Container>
             <Row>
               <Col>
-                <h3>First Place</h3>
+                <div>
+                  <h3>
+                    {!isMobile && (
+                      <img className="placeIcon" src={first_icon} alt="first"/>
+                    )}
+                    First Place
+                  </h3>
+                </div>
                 <p>$200 to be split among participants. Awarded to
                 participants that worked on the best project according
                 to our judging criteria.</p>
               </Col>
               <Col>
-                <h3>Second Place</h3>
+                <div>
+                  <h3>
+                    {!isMobile && (
+                      <img className="placeIcon"
+                      src={second_icon} alt="second"/>
+                    )}
+                    Second Place
+                  </h3>
+                </div>
                 <p>$100 to be split among participants. Awarded to
                 participants that worked on the second best project
                 according to our judging criteria.</p>
@@ -347,13 +366,20 @@ class App extends Component {
             </Row>
             <Row>
               <Col>
-                <h3>Third Place</h3>
+                <div>
+                  <h3>
+                    {!isMobile && (
+                      <img className="placeIcon" src={third_icon} alt="third"/>
+                    )}
+                    Third Place
+                  </h3>
+                </div>
                 <p>$50 to be split among participants. Awarded to
                 participants that worked on the third best project
                 according to our judging criteria.</p>
               </Col>
               <Col>
-                
+
               </Col>
             </Row>
           </Container>
