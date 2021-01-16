@@ -339,9 +339,7 @@ class App extends Component {
               <Col>
                 <div>
                   <h3>
-                    {!isMobile && (
-                      <img className="placeIcon" src={first_icon} alt="first"/>
-                    )}
+                    <img className="placeIcon" src={first_icon} alt="first"/>
                     First Place
                   </h3>
                 </div>
@@ -352,10 +350,7 @@ class App extends Component {
               <Col>
                 <div>
                   <h3>
-                    {!isMobile && (
-                      <img className="placeIcon"
-                      src={second_icon} alt="second"/>
-                    )}
+                    <img className="placeIcon" src={second_icon} alt="second"/>
                     Second Place
                   </h3>
                 </div>
@@ -368,9 +363,7 @@ class App extends Component {
               <Col>
                 <div>
                   <h3>
-                    {!isMobile && (
-                      <img className="placeIcon" src={third_icon} alt="third"/>
-                    )}
+                    <img className="placeIcon" src={third_icon} alt="third"/>
                     Third Place
                   </h3>
                 </div>
