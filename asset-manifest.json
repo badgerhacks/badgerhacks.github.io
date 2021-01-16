@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/badgerhacks.github.io/static/css/main.e8046455.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.081e32cd.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.081e32cd.chunk.js.map",
-    "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.873584dd.js",
-    "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.873584dd.js.map",
+    "main.js": "/badgerhacks.github.io/static/js/main.0dcad4ea.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.0dcad4ea.chunk.js.map",
+    "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js",
+    "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.8b8aa520.chunk.js": "/badgerhacks.github.io/static/js/2.8b8aa520.chunk.js",
-    "static/js/2.8b8aa520.chunk.js.map": "/badgerhacks.github.io/static/js/2.8b8aa520.chunk.js.map",
-    "static/js/3.9c7261b9.chunk.js": "/badgerhacks.github.io/static/js/3.9c7261b9.chunk.js",
-    "static/js/3.9c7261b9.chunk.js.map": "/badgerhacks.github.io/static/js/3.9c7261b9.chunk.js.map",
+    "static/js/2.f12e08e1.chunk.js": "/badgerhacks.github.io/static/js/2.f12e08e1.chunk.js",
+    "static/js/2.f12e08e1.chunk.js.map": "/badgerhacks.github.io/static/js/2.f12e08e1.chunk.js.map",
+    "static/js/3.d441aa17.chunk.js": "/badgerhacks.github.io/static/js/3.d441aa17.chunk.js",
+    "static/js/3.d441aa17.chunk.js.map": "/badgerhacks.github.io/static/js/3.d441aa17.chunk.js.map",
     "index.html": "/badgerhacks.github.io/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.e8046455.chunk.css.map": "/badgerhacks.github.io/static/css/main.e8046455.chunk.css.map",
-    "static/js/2.8b8aa520.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.8b8aa520.chunk.js.LICENSE.txt",
+    "static/js/2.f12e08e1.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.f12e08e1.chunk.js.LICENSE.txt",
+    "static/media/aberdean_logo_RGB.5e7f95b3.jpg": "/badgerhacks.github.io/static/media/aberdean_logo_RGB.5e7f95b3.jpg",
     "static/media/logo.bfdf673f.png": "/badgerhacks.github.io/static/media/logo.bfdf673f.png",
     "static/media/small-logo.35b19e33.png": "/badgerhacks.github.io/static/media/small-logo.35b19e33.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.873584dd.js",
+    "static/js/runtime-main.304d57b7.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.8b8aa520.chunk.js",
+    "static/js/2.f12e08e1.chunk.js",
     "static/css/main.e8046455.chunk.css",
-    "static/js/main.081e32cd.chunk.js"
+    "static/js/main.0dcad4ea.chunk.js"
   ]
 }
