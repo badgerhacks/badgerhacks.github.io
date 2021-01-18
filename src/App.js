@@ -351,7 +351,7 @@ class App extends Component {
                     First Place
                   </h3>
                 </div>
-                <p>$200 to be split among participants. Awarded to
+                <p>$230 to be split among participants. Awarded to
                 participants that worked on the best project according
                 to our judging criteria.</p>
               </Col>
@@ -362,7 +362,7 @@ class App extends Component {
                     Second Place
                   </h3>
                 </div>
-                <p>$100 to be split among participants. Awarded to
+                <p>$140 to be split among participants. Awarded to
                 participants that worked on the second best project
                 according to our judging criteria.</p>
               </Col>
