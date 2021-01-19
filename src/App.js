@@ -17,6 +17,7 @@ import second_icon from './icons/icons8-2nd-place-medal-96.png';
 import third_icon from './icons/icons8-3rd-place-medal-96.png';
 
 import aberdean_logo from './logos/aberdean_logo_RGB.jpg';
+import implicit_logo from './logos/logo_name_large_transparent.png';
 
 import './App.css';
 
@@ -351,7 +352,7 @@ class App extends Component {
                     First Place
                   </h3>
                 </div>
-                <p>$222 to be split among participants. Awarded to
+                <p>$400 to be split among participants. Awarded to
                 participants that worked on the best project according
                 to our judging criteria.</p>
               </Col>
@@ -362,7 +363,7 @@ class App extends Component {
                     Second Place
                   </h3>
                 </div>
-                <p>$136 to be split among participants. Awarded to
+                <p>$275 to be split among participants. Awarded to
                 participants that worked on the second best project
                 according to our judging criteria.</p>
               </Col>
@@ -375,12 +376,19 @@ class App extends Component {
                     Third Place
                   </h3>
                 </div>
-                <p>$50 to be split among participants. Awarded to
+                <p>$150 to be split among participants. Awarded to
                 participants that worked on the third best project
                 according to our judging criteria.</p>
               </Col>
               <Col>
-
+                <div>
+                  <h3>
+                    Fourth Place
+                  </h3>
+                </div>
+                <p>$67 to be split among participants. Awarded to
+                participants that worked on the fourth best project
+                according to our judging criteria.</p>
               </Col>
             </Row>
           </Container>
@@ -394,6 +402,11 @@ class App extends Component {
               <Col>
                 <a href="https://www.aberdean.com/">
                   <Image src={aberdean_logo} alt="aberdean" fluid/>
+                </a>
+              </Col>
+              <Col>
+                <a href="https://implicittech.com/">
+                  <Image src={implicit_logo} alt="implicit" fluid/>
                 </a>
               </Col>
             </Row>
