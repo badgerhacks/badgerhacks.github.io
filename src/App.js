@@ -18,6 +18,7 @@ import third_icon from './icons/icons8-3rd-place-medal-96.png';
 
 import aberdean_logo from './logos/aberdean_logo_RGB.png';
 import implicit_logo from './logos/logo_name_large_transparent.png';
+import fetch_logo from './logos/round_corners_logo.png';
 
 import './App.css';
 
@@ -408,6 +409,15 @@ class App extends Component {
                 <a href="https://implicittech.com/">
                   <Image src={implicit_logo} alt="implicit" fluid/>
                 </a>
+              </Col>
+            </Row>
+            <Row>
+              <Col>
+                <a href="https://www.fetchrewards.com/">
+                  <Image src={fetch_logo} alt="fetchrewards" fluid/>
+                </a>
+              </Col>
+              <Col>
               </Col>
             </Row>
           </Container>
