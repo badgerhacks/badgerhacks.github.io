@@ -18,7 +18,7 @@ import third_icon from './icons/icons8-3rd-place-medal-96.png';
 
 import aberdean_logo from './logos/aberdean_logo_RGB.png';
 import implicit_logo from './logos/logo_name_large_transparent.png';
-import fetch_logo from './logos/Fetch_Rewards_Horizontal_Logo.png';
+import fetch_logo from './logos/Fetch_Rewards_Horizontal_Logo_transparent.png';
 import understory_logo from './logos/Understory_Logo-Primary-Horizontal.png';
 
 import './App.css';
