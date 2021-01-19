@@ -355,7 +355,7 @@ class App extends Component {
                     First Place
                   </h3>
                 </div>
-                <p>$400 to be split among participants. Awarded to
+                <p>$500 to be split among participants. Awarded to
                 participants that worked on the best project according
                 to our judging criteria.</p>
               </Col>
@@ -366,7 +366,7 @@ class App extends Component {
                     Second Place
                   </h3>
                 </div>
-                <p>$300 to be split among participants. Awarded to
+                <p>$400 to be split among participants. Awarded to
                 participants that worked on the second best project
                 according to our judging criteria.</p>
               </Col>
@@ -379,7 +379,7 @@ class App extends Component {
                     Third Place
                   </h3>
                 </div>
-                <p>$200 to be split among participants. Awarded to
+                <p>$300 to be split among participants. Awarded to
                 participants that worked on the third best project
                 according to our judging criteria.</p>
               </Col>
@@ -389,7 +389,7 @@ class App extends Component {
                     Fourth Place
                   </h3>
                 </div>
-                <p>$100 to be split among participants. Awarded to
+                <p>$200 to be split among participants. Awarded to
                 participants that worked on the fourth best project
                 according to our judging criteria.</p>
               </Col>
@@ -401,7 +401,7 @@ class App extends Component {
                     Fifth Place
                   </h3>
                 </div>
-                <p>$38 to be split among participants. Awarded to
+                <p>$138 to be split among participants. Awarded to
                 participants that worked on the fifth best project
                 according to our judging criteria.</p>
               </Col>
