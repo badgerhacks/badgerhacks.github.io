@@ -16,7 +16,7 @@ import first_icon from './icons/icons8-1st-place-medal-96.png';
 import second_icon from './icons/icons8-2nd-place-medal-96.png';
 import third_icon from './icons/icons8-3rd-place-medal-96.png';
 
-import aberdean_logo from './logos/aberdean_logo_RGB.jpg';
+import aberdean_logo from './logos/aberdean_logo_RGB.png';
 import implicit_logo from './logos/logo_name_large_transparent.png';
 
 import './App.css';
