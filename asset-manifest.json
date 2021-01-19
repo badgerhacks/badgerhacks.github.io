@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/badgerhacks.github.io/static/css/main.e8046455.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.93cc9d5e.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.93cc9d5e.chunk.js.map",
+    "main.js": "/badgerhacks.github.io/static/js/main.cb43408f.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.cb43408f.chunk.js.map",
     "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js",
     "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.20aa2d7b.chunk.css.map": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.e8046455.chunk.css.map": "/badgerhacks.github.io/static/css/main.e8046455.chunk.css.map",
     "static/js/2.f12e08e1.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.f12e08e1.chunk.js.LICENSE.txt",
+    "static/media/Understory_Logo-Primary-Horizontal.b24b6de2.png": "/badgerhacks.github.io/static/media/Understory_Logo-Primary-Horizontal.b24b6de2.png",
     "static/media/aberdean_logo_RGB.59b2fe2c.png": "/badgerhacks.github.io/static/media/aberdean_logo_RGB.59b2fe2c.png",
     "static/media/logo.bfdf673f.png": "/badgerhacks.github.io/static/media/logo.bfdf673f.png",
     "static/media/logo_name_large_transparent.f4326f4e.png": "/badgerhacks.github.io/static/media/logo_name_large_transparent.f4326f4e.png",
@@ -25,6 +26,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.f12e08e1.chunk.js",
     "static/css/main.e8046455.chunk.css",
-    "static/js/main.93cc9d5e.chunk.js"
+    "static/js/main.cb43408f.chunk.js"
   ]
 }
