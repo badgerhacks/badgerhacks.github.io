@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/badgerhacks.github.io/static/css/main.e8046455.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.3b4c9423.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.3b4c9423.chunk.js.map",
+    "main.js": "/badgerhacks.github.io/static/js/main.b1897e3a.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.b1897e3a.chunk.js.map",
     "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js",
     "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/aberdean_logo_RGB.59b2fe2c.png": "/badgerhacks.github.io/static/media/aberdean_logo_RGB.59b2fe2c.png",
     "static/media/logo.bfdf673f.png": "/badgerhacks.github.io/static/media/logo.bfdf673f.png",
     "static/media/logo_name_large_transparent.f4326f4e.png": "/badgerhacks.github.io/static/media/logo_name_large_transparent.f4326f4e.png",
+    "static/media/round_corners_logo.ea890cef.png": "/badgerhacks.github.io/static/media/round_corners_logo.ea890cef.png",
     "static/media/small-logo.35b19e33.png": "/badgerhacks.github.io/static/media/small-logo.35b19e33.png"
   },
   "entrypoints": [
@@ -24,6 +25,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.f12e08e1.chunk.js",
     "static/css/main.e8046455.chunk.css",
-    "static/js/main.3b4c9423.chunk.js"
+    "static/js/main.b1897e3a.chunk.js"
   ]
 }
