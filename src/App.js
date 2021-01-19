@@ -19,6 +19,7 @@ import third_icon from './icons/icons8-3rd-place-medal-96.png';
 import aberdean_logo from './logos/aberdean_logo_RGB.png';
 import implicit_logo from './logos/logo_name_large_transparent.png';
 import fetch_logo from './logos/round_corners_logo.png';
+import understory_logo from './logos/Understory_Logo-Primary-Horizontal.png';
 
 import './App.css';
 
@@ -419,6 +420,9 @@ class App extends Component {
                 </a>
               </Col>
               <Col>
+                <a href="https://understoryweather.com/">
+                  <Image src={understory_logo} alt="understory" fluid/>
+                </a>
               </Col>
             </Row>
           </Container>
