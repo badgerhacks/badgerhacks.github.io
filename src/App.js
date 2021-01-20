@@ -73,14 +73,14 @@ class App extends Component {
                     Prizes
                 </Link>
 
-                <Link className="nav-link" to="sponsors" activeClass="active"
-                spy={true} smooth={true}>
-                    Sponsors
-                </Link>
-
                 <Link className="nav-link" to="hall_of_fame"
                 activeClass="active" spy={true} smooth={true}>
                     Hall of Fame
+                </Link>
+
+                <Link className="nav-link" to="sponsors" activeClass="active"
+                spy={true} smooth={true}>
+                    Sponsors
                 </Link>
               </Nav>
             </Navbar.Collapse>
@@ -416,37 +416,6 @@ class App extends Component {
           </Container>
         </Container>
 
-        {/* Sponsors Section */}
-        <Container id="sponsors">
-          <h1>Sponsors</h1>
-          <Container>
-            <Row>
-              <Col>
-                <a href="https://www.aberdean.com/">
-                  <Image src={aberdean_logo} alt="aberdean" fluid/>
-                </a>
-              </Col>
-              <Col>
-                <a href="https://implicittech.com/">
-                  <Image src={implicit_logo} alt="implicit" fluid/>
-                </a>
-              </Col>
-            </Row>
-            <Row>
-              <Col>
-                <a href="https://www.fetchrewards.com/">
-                  <Image src={fetch_logo} alt="fetchrewards" fluid/>
-                </a>
-              </Col>
-              <Col>
-                <a href="https://understoryweather.com/">
-                  <Image src={understory_logo} alt="understory" fluid/>
-                </a>
-              </Col>
-            </Row>
-          </Container>
-        </Container>
-
         {/* Hall of Fame Section */}
         <Container id="hall_of_fame">
           <Container>
@@ -635,8 +604,39 @@ class App extends Component {
           </Container>
         </Container>
 
+        {/* Sponsors Section */}
+        <Container id="sponsors">
+          <h1>Sponsors</h1>
+          <Container>
+            <Row>
+              <Col>
+                <a href="https://www.aberdean.com/">
+                  <Image src={aberdean_logo} alt="aberdean" fluid/>
+                </a>
+              </Col>
+              <Col>
+                <a href="https://implicittech.com/">
+                  <Image src={implicit_logo} alt="implicit" fluid/>
+                </a>
+              </Col>
+            </Row>
+            <Row>
+              <Col>
+                <a href="https://www.fetchrewards.com/">
+                  <Image src={fetch_logo} alt="fetchrewards" fluid/>
+                </a>
+              </Col>
+              <Col>
+                <a href="https://understoryweather.com/">
+                  <Image src={understory_logo} alt="understory" fluid/>
+                </a>
+              </Col>
+            </Row>
+          </Container>
+        </Container>
+
         {/* Footer */}
-        <Navbar bg="dark" variant="dark" expand="lg">
+        <Navbar style={{marginTop:"2rem"}} bg="dark" variant="dark" expand="lg">
           <Container>
             <Nav style={{color:"white"}} className="mr-auto">
               Copyright © BadgerHacks 2020
