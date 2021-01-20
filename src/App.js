@@ -452,7 +452,7 @@ class App extends Component {
           <Container>
             <Row>
               <Col align="center">
-                <h2 className="hof_year"
+                <h2 style={{marginTop: "2rem"}} className="hof_year"
                 href="https://badgerhacks.devpost.com/project-gallery">
                   Spring 2021 Winners
                 </h2>
