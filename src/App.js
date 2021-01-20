@@ -449,13 +449,12 @@ class App extends Component {
 
         {/* Hall of Fame Section */}
         <Container id="hall_of_fame">
-          <h1>Hall of Fame</h1>
           <Container>
             <Row>
               <Col align="center">
                 <h2 className="hof_year"
                 href="https://badgerhacks.devpost.com/project-gallery">
-                  Spring 2021
+                  Spring 2021 Winners
                 </h2>
               </Col>
             </Row>
