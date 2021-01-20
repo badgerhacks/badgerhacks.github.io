@@ -94,3 +94,12 @@
   width: 1.75rem;
   height: 1.75rem;
 }
+
+.full-width {
+  width: 100%;
+}
+
+.hof_year {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
