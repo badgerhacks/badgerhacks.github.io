@@ -636,13 +636,14 @@ class App extends Component {
         </Container>
 
         {/* Footer */}
-        <Navbar bg="light" variant="light" expand="lg">
+        <Navbar bg="dark" variant="dark" expand="lg">
           <Container>
-            <Nav className="mr-auto">
+            <Nav style={{color:"white"}} className="mr-auto">
               Copyright © BadgerHacks 2020
             </Nav>
             <Nav className="ml-auto">
-              <a href="https://github.com/badgerhacks/badgerhacks.github.io">
+              <a style={{color:"white"}}
+              href="https://github.com/badgerhacks/badgerhacks.github.io">
                 Source Code
               </a>
             </Nav>
