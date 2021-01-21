@@ -276,6 +276,20 @@ class App extends Component {
               </Accordion.Collapse>
             </Card>
             <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="devpostquestion">
+                Does every teammate need a Devpost account?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="devpostquestion">
+                <Card.Body>
+                  Yes, every teammate should have a Devpost account. BUT, only
+                  one person should submit the project on Devpost. When
+                  submitting a project, Devpost will allow you to add
+                  teammates, so the project will also be linked to their
+                  accounts. 
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
               <Accordion.Toggle as={Card.Header} eventKey="submission">
                 How do I submit my project?
               </Accordion.Toggle>
