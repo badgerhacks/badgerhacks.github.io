@@ -288,7 +288,8 @@ class App extends Component {
                   a project to be valid. The submission deadline is
                   included in the schedule above
                   (<a href="https://badgerhacks.github.io/#schedule">
-                  https://badgerhacks.github.io/#schedule</a>).
+                  https://badgerhacks.github.io/#schedule</a>). Only one
+                  submission should be made per team.
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
