@@ -285,7 +285,7 @@ class App extends Component {
                   one person should submit the project on Devpost. When
                   submitting a project, Devpost will allow you to add
                   teammates, so the project will also be linked to their
-                  accounts. 
+                  accounts.
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
@@ -318,6 +318,29 @@ class App extends Component {
                   participants may upload their code as a zip file to other
                   places like Google Drive or Dropbox if that is easier for
                   them.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="judgingcrit">
+                What is the judging criteria?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="judgingcrit">
+                <Card.Body>
+                  <strong>Creativity and Uniqueness</strong>
+                  <p>
+                    Projects will be judged based off creativity and
+                    uniqueness. The novelty of ideas matters, more creative
+                    ideas do better here, but the execution of the idea
+                    matters too. See the Presentation category for
+                    information about this.
+                  </p>
+                  <strong>Presentation</strong>
+                  <p>
+                    How polished does your idea look in your
+                    presentation? Was it well-implemented? Are there any
+                    obvious flaws or glitches?
+                  </p>
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
