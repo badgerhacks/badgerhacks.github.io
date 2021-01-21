@@ -231,7 +231,8 @@ class App extends Component {
                   Yes! We highly encourage teamwork. Participants
                   may work alone or in teams of up to 4 people. The
                   "group-search" channel on our Discord server can help you
-                  find teammates.
+                  find teammates. Participants may also work solo
+                  if they prefer that.
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
@@ -304,6 +305,24 @@ class App extends Component {
                   (<a href="https://badgerhacks.github.io/#schedule">
                   https://badgerhacks.github.io/#schedule</a>). Only one
                   submission should be made per team.
+                </Card.Body>
+              </Accordion.Collapse>
+            </Card>
+            <Card>
+              <Accordion.Toggle as={Card.Header} eventKey="vidsub">
+                What should my YouTube video contain?
+              </Accordion.Toggle>
+              <Accordion.Collapse eventKey="vidsub">
+                <Card.Body>
+                  Videos are intended to be demos of the invention. You can
+                  include anything you want (voice overs, explaining code,
+                    etc.) but those are all optional. The nicer the
+                    presentation of your innovation is, the more likely you
+                    are to win a prize (since presentation is one of the
+                    judging criteria). These projects can also go on your
+                    resume if you’re planning to apply for jobs or
+                    internships in the future, so we suggest making decent
+                    videos. Max time for a video is 5 minutes.
                 </Card.Body>
               </Accordion.Collapse>
             </Card>
