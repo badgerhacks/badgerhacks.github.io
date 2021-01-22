@@ -103,3 +103,15 @@
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
+
+.profile-image {
+  margin-top: 1rem;
+  width: 50%;
+  height: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .profile_col {
+    min-width: 100%;
+  }
+}
