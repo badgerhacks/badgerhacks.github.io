@@ -6,8 +6,8 @@ import deepak_profile from '../team_images/deepak_ramalingam.jpeg';
 import pranav_profile from '../team_images/pranav_kumar.jpeg';
 import stanley_profile from '../team_images/stanley_tzeng.jpeg';
 import dhananjayan_profile from '../team_images/dhananjayan_p_n.jpeg';
-import eric_profile from '../team_images/eric_hewitt.jpg';
-import scott_profile from '../team_images/scott_rose.jpg';
+import eric_profile from '../team_images/eric_hewitt.jpeg';
+import scott_profile from '../team_images/scott_rose.jpeg';
 
 class Team extends Component {
   render() {
@@ -113,7 +113,7 @@ class Team extends Component {
                 <Card.Body>
                   <Card.Title>Dhananjayan P N</Card.Title>
                   <Card.Text>
-                    Dhananjayan is a freshman at the University of
+                    Dhananjayan P N is a freshman at the University of
                     Wisconsin-Madison.
                   </Card.Text>
                 </Card.Body>
