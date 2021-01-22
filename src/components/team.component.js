@@ -134,7 +134,8 @@ class Team extends Component {
                 <Card.Body>
                   <Card.Title>Eric Hewitt</Card.Title>
                   <Card.Text>
-                    Eric Hewitt is the Chief Technology Officer at Understory.
+                    Eric Hewitt is the Chief Technology Officer
+                    at Understory, Inc.
                   </Card.Text>
                 </Card.Body>
               </Card>
@@ -154,7 +155,7 @@ class Team extends Component {
                 <Card.Body>
                   <Card.Title>Scott Rose</Card.Title>
                   <Card.Text>
-                    Scott Rose is an Android Developer at Fetch Rewards.
+                    Scott Rose is a Principal Engineer at Fetch Rewards, Inc.
                   </Card.Text>
                 </Card.Body>
               </Card>
