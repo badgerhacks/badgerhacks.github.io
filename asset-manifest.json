@@ -1,31 +1,35 @@
 {
   "files": {
-    "main.css": "/badgerhacks.github.io/static/css/main.8853c0b3.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.e3e31f92.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.e3e31f92.chunk.js.map",
+    "main.css": "/badgerhacks.github.io/static/css/main.007f29cc.chunk.css",
+    "main.js": "/badgerhacks.github.io/static/js/main.dbaae57d.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.dbaae57d.chunk.js.map",
     "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js",
     "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.68e61456.chunk.js": "/badgerhacks.github.io/static/js/2.68e61456.chunk.js",
-    "static/js/2.68e61456.chunk.js.map": "/badgerhacks.github.io/static/js/2.68e61456.chunk.js.map",
+    "static/js/2.8dcfccb0.chunk.js": "/badgerhacks.github.io/static/js/2.8dcfccb0.chunk.js",
+    "static/js/2.8dcfccb0.chunk.js.map": "/badgerhacks.github.io/static/js/2.8dcfccb0.chunk.js.map",
     "static/js/3.d441aa17.chunk.js": "/badgerhacks.github.io/static/js/3.d441aa17.chunk.js",
     "static/js/3.d441aa17.chunk.js.map": "/badgerhacks.github.io/static/js/3.d441aa17.chunk.js.map",
     "index.html": "/badgerhacks.github.io/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.8853c0b3.chunk.css.map": "/badgerhacks.github.io/static/css/main.8853c0b3.chunk.css.map",
-    "static/js/2.68e61456.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.68e61456.chunk.js.LICENSE.txt",
+    "static/css/main.007f29cc.chunk.css.map": "/badgerhacks.github.io/static/css/main.007f29cc.chunk.css.map",
+    "static/js/2.8dcfccb0.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.8dcfccb0.chunk.js.LICENSE.txt",
     "static/media/Fetch_Rewards_Horizontal_Logo_transparent.d70705d7.png": "/badgerhacks.github.io/static/media/Fetch_Rewards_Horizontal_Logo_transparent.d70705d7.png",
     "static/media/Understory_Logo-Primary-Horizontal.b24b6de2.png": "/badgerhacks.github.io/static/media/Understory_Logo-Primary-Horizontal.b24b6de2.png",
     "static/media/aberdean_logo_RGB.59b2fe2c.png": "/badgerhacks.github.io/static/media/aberdean_logo_RGB.59b2fe2c.png",
+    "static/media/deepak_ramalingam.333a5c2f.jpeg": "/badgerhacks.github.io/static/media/deepak_ramalingam.333a5c2f.jpeg",
+    "static/media/dhananjayan_p_n.2138b308.jpeg": "/badgerhacks.github.io/static/media/dhananjayan_p_n.2138b308.jpeg",
     "static/media/logo.bfdf673f.png": "/badgerhacks.github.io/static/media/logo.bfdf673f.png",
     "static/media/logo_name_large_transparent.f4326f4e.png": "/badgerhacks.github.io/static/media/logo_name_large_transparent.f4326f4e.png",
-    "static/media/small-logo.35b19e33.png": "/badgerhacks.github.io/static/media/small-logo.35b19e33.png"
+    "static/media/pranav_kumar.13ef9fa5.jpeg": "/badgerhacks.github.io/static/media/pranav_kumar.13ef9fa5.jpeg",
+    "static/media/small-logo.35b19e33.png": "/badgerhacks.github.io/static/media/small-logo.35b19e33.png",
+    "static/media/stanley_tzeng.c22f8d55.jpeg": "/badgerhacks.github.io/static/media/stanley_tzeng.c22f8d55.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.304d57b7.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.68e61456.chunk.js",
-    "static/css/main.8853c0b3.chunk.css",
-    "static/js/main.e3e31f92.chunk.js"
+    "static/js/2.8dcfccb0.chunk.js",
+    "static/css/main.007f29cc.chunk.css",
+    "static/js/main.dbaae57d.chunk.js"
   ]
 }
