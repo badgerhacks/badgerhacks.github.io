@@ -98,10 +98,14 @@ class Team extends Component {
                 <Card.Body>
                   <Card.Title>Dhananjayan P N</Card.Title>
                   <Card.Text>
-                    Dhananjayan P N is a freshman at the University of Wisconsin-Madison. He loves developing in Python and JavaScript and is an
-                    absolute fan of Machine Learning and AI. With knowledge in both Computer Science & Data Science, Dhananjayan aspires to combine
-                    his skills and one day create the next big thing in tech. In his free time, he plays the guitar, keyboard and drums and often
-                    produces music of his own.
+                    Dhananjayan P N is a freshman at the University of
+                    Wisconsin-Madison. He loves developing in Python
+                    and JavaScript and is an absolute fan of Machine
+                    Learning and AI. With knowledge in both Computer
+                    Science & Data Science, Dhananjayan aspires to combine
+                    his skills and one day create the next big thing in tech.
+                    In his free time, he plays the guitar, keyboard and
+                    drums and often produces music of his own.
                   </Card.Text>
                 </Card.Body>
               </Card>
