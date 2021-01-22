@@ -16,9 +16,10 @@ class Team extends Component {
         <h1>Team</h1>
         <Container fluid>
           {/* Founders Row */}
-          <Row style={{marginTop:"2rem"}}>
+          <Row>
             {/* Deepak */}
-            <Col className="profile_col" align="center">
+            <Col style={{marginTop:"2rem"}}
+            className="profile_col" align="center">
               <Card style={{height:"100%"}}>
                 <Card.Header>
                   <strong>Co-Founder</strong>
@@ -44,7 +45,8 @@ class Team extends Component {
               </Card>
             </Col>
             {/* Pranav */}
-            <Col className="profile_col" align="center">
+            <Col style={{marginTop:"2rem"}}
+            className="profile_col" align="center">
               <Card style={{height:"100%"}}>
                 <Card.Header>
                   <strong>Co-Founder</strong>
@@ -70,7 +72,8 @@ class Team extends Component {
               </Card>
             </Col>
             {/* Stanley */}
-            <Col className="profile_col" align="center">
+            <Col style={{marginTop:"2rem"}}
+            className="profile_col" align="center">
               <Card style={{height:"100%"}}>
                 <Card.Header>
                   <strong>Co-Founder</strong>
@@ -97,9 +100,10 @@ class Team extends Component {
           </Row>
 
           {/*Other Row*/}
-          <Row style={{marginTop:"2rem"}}>
+          <Row>
             {/* Dhananjayan */}
-            <Col className="profile_col" align="center">
+            <Col style={{marginTop:"2rem"}}
+            className="profile_col" align="center">
               <Card style={{height:"100%"}}>
                 <Card.Header>
                   <strong>Mentor & Judge</strong>
@@ -119,8 +123,9 @@ class Team extends Component {
                 </Card.Body>
               </Card>
             </Col>
-            {/* Deepak */}
-            <Col className="profile_col" align="center">
+            {/* Eric */}
+            <Col style={{marginTop:"2rem"}}
+            className="profile_col" align="center">
               <Card style={{height:"100%"}}>
                 <Card.Header>
                   <strong>Guest Judge</strong>
@@ -140,8 +145,9 @@ class Team extends Component {
                 </Card.Body>
               </Card>
             </Col>
-            {/* Pranav */}
-            <Col className="profile_col" align="center">
+            {/* Scott */}
+            <Col style={{marginTop:"2rem"}}
+            className="profile_col" align="center">
               <Card style={{height:"100%"}}>
                 <Card.Header>
                   <strong>Guest Judge</strong>
