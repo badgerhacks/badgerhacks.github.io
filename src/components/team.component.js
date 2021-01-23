@@ -84,9 +84,9 @@ class Team extends Component {
                   </Col>
                 </Row>
                 <Card.Body>
-                  <Card.Title>Pranav Kumar</Card.Title>
+                  <Card.Title>Stanley Tzeng</Card.Title>
                   <Card.Text>
-                    Stanley is a freshman at the University of
+                    Stanley Tzeng is a freshman at the University of
                     Wisconsin-Madison. Stanley is fluent in java and
                     python. He is an aspiring software engineer and has
                     dabbled with data science and mobile app
