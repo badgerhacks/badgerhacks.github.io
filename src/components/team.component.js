@@ -33,9 +33,9 @@ class Team extends Component {
                 <Card.Body>
                   <Card.Title>Deepak Ramalingam</Card.Title>
                   <Card.Text>
-                    Deepak Ramalingam is a software developer at a
+                    Deepak Ramalingam is a Software Developer at a
                     PeeblesTech LLC, a local startup company in Madison,
-                    and an incoming augmented reality engineering intern at
+                    and an incoming Augmented Reality Engineering Intern at
                     TikTok (US). He is a full-stack developer and utilizes his
                     Computer Science knowledge to solve real world problems
                     in the fields of education, business, health care, and

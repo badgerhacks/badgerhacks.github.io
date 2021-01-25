@@ -23,27 +23,23 @@ class HallOfFame extends Component {
                   <h3>1st</h3>
                 </Card.Header>
                 <Card.Body>
-                  <Card.Title>TBA</Card.Title>
+                  <Card.Title>
+                    <h2>Carbon AI</h2>
+                  </Card.Title>
                   <Card.Text>
                   {
-                    /*
-                    <iframe title="first_place" width="100%" height="100%"
-                      src="https://www.youtube-nocookie.com/embed/zuOUN-VSI40"
-                      frameborder="0"
-                      allow={"accelerometer; autoplay; clipboard-write;"+
-                      "encrypted-media; gyroscope; picture-in-picture"}
-                      allowfullscreen>
-                    </iframe>
-                    */
+                    <iframe title="first" className="project-video"
+                    src="https://www.youtube.com/embed/uxYWSqN529c"
+                    frameborder="0" allow={"accelerometer; autoplay;"+
+                    "clipboard-write; encrypted-media; gyroscope;"+
+                    "picture-in-picture"} allowfullscreen></iframe>
                   }
                   </Card.Text>
                   {
-                    /*
                     <Button className="top-btn-l full-width"
-                    href="https://badgerhacks.devpost.com/project-gallery">
+                    href="https://devpost.com/software/carbonai">
                       View Project
                     </Button>
-                    */
                   }
                 </Card.Body>
               </Card>
@@ -57,27 +53,23 @@ class HallOfFame extends Component {
                   <h3>2nd</h3>
                 </Card.Header>
                 <Card.Body>
-                  <Card.Title>TBA</Card.Title>
+                  <Card.Title>
+                    <h2>SlideSpeak</h2>
+                  </Card.Title>
                   <Card.Text>
                   {
-                    /*
-                    <iframe title="first_place" width="100%" height="100%"
-                      src="https://www.youtube-nocookie.com/embed/zuOUN-VSI40"
-                      frameborder="0"
-                      allow={"accelerometer; autoplay; clipboard-write;"+
-                      "encrypted-media; gyroscope; picture-in-picture"}
-                      allowfullscreen>
-                    </iframe>
-                    */
+                    <iframe title="second" className="project-video-lesser"
+                    src="https://www.youtube.com/embed/b_5JbFkE710"
+                    frameborder="0" allow={"accelerometer; autoplay;"+
+                    "clipboard-write; encrypted-media; gyroscope;"+
+                    "picture-in-picture"} allowfullscreen></iframe>
                   }
                   </Card.Text>
                   {
-                    /*
                     <Button className="top-btn-l full-width"
-                    href="https://badgerhacks.devpost.com/project-gallery">
+                    href="https://devpost.com/software/slidespeak">
                       View Project
                     </Button>
-                    */
                   }
                 </Card.Body>
               </Card>
@@ -89,27 +81,23 @@ class HallOfFame extends Component {
                   <h3>3rd</h3>
                 </Card.Header>
                 <Card.Body>
-                  <Card.Title>TBA</Card.Title>
+                  <Card.Title>
+                    <h2>CryptoSense</h2>
+                  </Card.Title>
                   <Card.Text>
                   {
-                    /*
-                    <iframe title="first_place" width="100%" height="100%"
-                      src="https://www.youtube-nocookie.com/embed/zuOUN-VSI40"
-                      frameborder="0"
-                      allow={"accelerometer; autoplay; clipboard-write;"+
-                      "encrypted-media; gyroscope; picture-in-picture"}
-                      allowfullscreen>
-                    </iframe>
-                    */
+                    <iframe title="third" className="project-video-lesser"
+                    src="https://www.youtube.com/embed/Q62o8PcgLgU"
+                    frameborder="0" allow={"accelerometer; autoplay;"+
+                    "clipboard-write; encrypted-media; gyroscope;"+
+                    "picture-in-picture"} allowfullscreen></iframe>
                   }
                   </Card.Text>
                   {
-                    /*
                     <Button className="top-btn-l full-width"
-                    href="https://badgerhacks.devpost.com/project-gallery">
+                    href="https://devpost.com/software/cryptosense">
                       View Project
                     </Button>
-                    */
                   }
                 </Card.Body>
               </Card>
@@ -123,27 +111,23 @@ class HallOfFame extends Component {
                   <h3>4th</h3>
                 </Card.Header>
                 <Card.Body>
-                  <Card.Title>TBA</Card.Title>
+                  <Card.Title>
+                    <h2>PDGlint</h2>
+                  </Card.Title>
                   <Card.Text>
                   {
-                    /*
-                    <iframe title="first_place" width="100%" height="100%"
-                      src="https://www.youtube-nocookie.com/embed/zuOUN-VSI40"
-                      frameborder="0"
-                      allow={"accelerometer; autoplay; clipboard-write;"+
-                      "encrypted-media; gyroscope; picture-in-picture"}
-                      allowfullscreen>
-                    </iframe>
-                    */
+                    <iframe title="fourth" className="project-video-lesser"
+                    src="https://www.youtube.com/embed/1DllnrUZzgs"
+                    frameborder="0" allow={"accelerometer; autoplay;"+
+                    "clipboard-write; encrypted-media; gyroscope;"+
+                    "picture-in-picture"} allowfullscreen></iframe>
                   }
                   </Card.Text>
                   {
-                    /*
                     <Button className="top-btn-l full-width"
-                    href="https://badgerhacks.devpost.com/project-gallery">
+                    href="https://devpost.com/software/pdglint">
                       View Project
                     </Button>
-                    */
                   }
                 </Card.Body>
               </Card>
@@ -155,27 +139,23 @@ class HallOfFame extends Component {
                   <h3>5th</h3>
                 </Card.Header>
                 <Card.Body>
-                  <Card.Title>TBA</Card.Title>
+                  <Card.Title>
+                    <h2>PDGlint</h2>
+                  </Card.Title>
                   <Card.Text>
                   {
-                    /*
-                    <iframe title="first_place" width="100%" height="100%"
-                      src="https://www.youtube-nocookie.com/embed/zuOUN-VSI40"
-                      frameborder="0"
-                      allow={"accelerometer; autoplay; clipboard-write;"+
-                      "encrypted-media; gyroscope; picture-in-picture"}
-                      allowfullscreen>
-                    </iframe>
-                    */
+                    <iframe title="fourth" className="project-video-lesser"
+                    src="https://www.youtube.com/embed/1Ip8_ODxfQc"
+                    frameborder="0" allow={"accelerometer; autoplay;"+
+                    "clipboard-write; encrypted-media; gyroscope;"+
+                    "picture-in-picture"} allowfullscreen></iframe>
                   }
                   </Card.Text>
                   {
-                    /*
                     <Button className="top-btn-l full-width"
-                    href="https://badgerhacks.devpost.com/project-gallery">
+                    href="https://devpost.com/software/image2audio">
                       View Project
                     </Button>
-                    */
                   }
                 </Card.Body>
               </Card>

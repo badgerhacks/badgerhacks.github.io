@@ -110,7 +110,27 @@
   height: auto;
 }
 
+.project-video {
+  width: 75%;
+  height: 20rem;
+}
+
+.project-video-lesser {
+  width: 75%;
+  height: 20rem;
+}
+
 @media only screen and (max-width: 600px) {
+  .project-video {
+    width: 100%;
+    height: 10rem;
+  }
+
+  .project-video-lesser {
+    width: 100%;
+    height: 7rem;
+  }
+
   .profile_col {
     min-width: 100%;
   }
