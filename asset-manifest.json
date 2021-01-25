@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/badgerhacks.github.io/static/css/main.007f29cc.chunk.css",
-    "main.js": "/badgerhacks.github.io/static/js/main.2e459647.chunk.js",
-    "main.js.map": "/badgerhacks.github.io/static/js/main.2e459647.chunk.js.map",
+    "main.css": "/badgerhacks.github.io/static/css/main.1c1849aa.chunk.css",
+    "main.js": "/badgerhacks.github.io/static/js/main.86bf815d.chunk.js",
+    "main.js.map": "/badgerhacks.github.io/static/js/main.86bf815d.chunk.js.map",
     "runtime-main.js": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js",
     "runtime-main.js.map": "/badgerhacks.github.io/static/js/runtime-main.304d57b7.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d441aa17.chunk.js.map": "/badgerhacks.github.io/static/js/3.d441aa17.chunk.js.map",
     "index.html": "/badgerhacks.github.io/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/badgerhacks.github.io/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.007f29cc.chunk.css.map": "/badgerhacks.github.io/static/css/main.007f29cc.chunk.css.map",
+    "static/css/main.1c1849aa.chunk.css.map": "/badgerhacks.github.io/static/css/main.1c1849aa.chunk.css.map",
     "static/js/2.8dcfccb0.chunk.js.LICENSE.txt": "/badgerhacks.github.io/static/js/2.8dcfccb0.chunk.js.LICENSE.txt",
     "static/media/Fetch_Rewards_Horizontal_Logo_transparent.d70705d7.png": "/badgerhacks.github.io/static/media/Fetch_Rewards_Horizontal_Logo_transparent.d70705d7.png",
     "static/media/Understory_Logo-Primary-Horizontal.b24b6de2.png": "/badgerhacks.github.io/static/media/Understory_Logo-Primary-Horizontal.b24b6de2.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.304d57b7.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.8dcfccb0.chunk.js",
-    "static/css/main.007f29cc.chunk.css",
-    "static/js/main.2e459647.chunk.js"
+    "static/css/main.1c1849aa.chunk.css",
+    "static/js/main.86bf815d.chunk.js"
   ]
 }
