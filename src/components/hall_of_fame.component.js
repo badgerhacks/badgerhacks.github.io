@@ -18,7 +18,7 @@ class HallOfFame extends Component {
           </Row>
           <Row>
             <Col align="center">
-              <Card border="warning" style={{ width: '75%' }}>
+              <Card className="winner-card" border="warning">
                 <Card.Header>
                   <h3>1st</h3>
                 </Card.Header>
@@ -140,7 +140,7 @@ class HallOfFame extends Component {
                 </Card.Header>
                 <Card.Body>
                   <Card.Title>
-                    <h2>PDGlint</h2>
+                    <h2>Image2Audio</h2>
                   </Card.Title>
                   <Card.Text>
                   {
