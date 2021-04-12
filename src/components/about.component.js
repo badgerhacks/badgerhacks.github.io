@@ -14,11 +14,7 @@ class About extends Component {
         This means that regardless of where you are, as long as you have a
         submission that abides by our rules, you will be eligible for a
         prize.</p>
-        <p>Featured in the news:&nbsp;
-          <a href="https://www.cs.wisc.edu/2021/03/02/badgerhacks/">
-             https://www.cs.wisc.edu/2021/03/02/badgerhacks/
-          </a>
-        </p>
+        <p>Featured in the news:&nbsp;<a href="https://www.cs.wisc.edu/2021/03/02/badgerhacks/">https://www.cs.wisc.edu/2021/03/02/badgerhacks/</a></p>
       </Container>
     );
   }
