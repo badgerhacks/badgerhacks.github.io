@@ -9,7 +9,7 @@ import {isMobile} from 'react-device-detect';
 class Home extends Component {
   render() {
     return(
-      <div className="App" id="home">
+      <div className="App" id="home"> 
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           { isMobile ?

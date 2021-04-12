@@ -6,7 +6,7 @@ import { Link } from 'react-scroll';
 import small_logo from '../logos/small-logo.png';
 
 class CustomNavbar extends Component {
-  render() {
+  render() { 
     return(
       <Navbar collapseOnSelect expand="lg" bg="light" variant="light"
       fixed="top">

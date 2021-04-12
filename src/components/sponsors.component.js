@@ -8,7 +8,7 @@ import fetch_logo from '../logos/Fetch_Rewards_Horizontal_Logo_transparent.png';
 import understory_logo from '../logos/Understory_Logo-Primary-Horizontal.png';
 
 class Footer extends Component {
-  render() {
+  render() { 
     return(
       <Container id="sponsors">
         <h1>Sponsors</h1>

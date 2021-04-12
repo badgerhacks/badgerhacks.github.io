@@ -9,7 +9,7 @@ class HallOfFame extends Component {
         <h1 style={{marginTop: "2rem"}}>Hall of Fame</h1>
         <Container>
           <Row>
-            <Col align="center">
+            <Col align="center"> 
               <h2 className="hof_year"
               href="https://badgerhacks.devpost.com/project-gallery">
                 Spring 2021 Winners

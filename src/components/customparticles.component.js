@@ -5,7 +5,7 @@ import Particles from 'react-particles-js';
 import {isMobile} from 'react-device-detect';
 
 class CustomParticles extends Component {
-  render() {
+  render() { 
     return(
       <Particles
         style={{ position: "absolute" }}

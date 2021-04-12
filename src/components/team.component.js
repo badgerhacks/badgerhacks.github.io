@@ -12,7 +12,7 @@ import scott_profile from "../team_images/scott_rose.jpeg";
 class Team extends Component {
   render() {
     return (
-      <Container id="team">
+      <Container id="team"> 
         <h1>Team</h1>
         <Container fluid>
           {/* Founders Row */}

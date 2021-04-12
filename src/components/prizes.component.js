@@ -14,7 +14,7 @@ class Prizes extends Component {
         <Container>
           <Row>
             <Col>
-              <div>
+              <div> 
                 <h3>
                   <img className="placeIcon" src={first_icon} alt="first"/>
                   First Place

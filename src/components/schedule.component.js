@@ -5,7 +5,7 @@ import { Container, Table } from 'react-bootstrap';
 class Schedule extends Component {
   render() {
     return(
-      <Container id="schedule">
+      <Container id="schedule"> 
         <h1>Schedule</h1>
         <p>Please join our Discord server for all announcements and
         updates! (<a href="https://discord.com/invite/AGyyPVtpVX">

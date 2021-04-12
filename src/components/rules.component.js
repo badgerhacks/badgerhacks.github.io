@@ -5,7 +5,7 @@ import { Container } from 'react-bootstrap';
 class Rules extends Component {
   render() {
     return(
-      <Container id="rules">
+      <Container id="rules"> 
         <h1>Rules</h1>
         <ul>
           <li>

@@ -7,7 +7,7 @@ class Faq extends Component {
     return(
       <Container id="faq">
         <h1>FAQ</h1>
-        <Accordion>
+        <Accordion> 
           <Card>
             <Accordion.Toggle as={Card.Header} eventKey="signupquestion">
               How do I sign up?
