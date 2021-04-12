@@ -8,7 +8,11 @@ Git must be installed.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, can run:
+
+### `npm install`
+
+Installs necessary npm packages for local development.
 
 ### `npm start`
 
